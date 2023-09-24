@@ -3,3 +3,6 @@ build:
 
 run:
 	./toy_engine
+
+clean:
+	rm toy_engine
